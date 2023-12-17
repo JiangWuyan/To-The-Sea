@@ -7,7 +7,7 @@ export default function Page() {
       <Head>
         <title>To The Sea | 出海新途</title>
       </Head>
-      <h1>Let's rush to the sea!</h1>
+      <h1>Let&apos;s rush to the sea!</h1>
       <p>Coming soon ^_^</p>
       <ul>
         <li>
