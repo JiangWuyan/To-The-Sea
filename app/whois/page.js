@@ -1,3 +1,5 @@
+use client
+
 import { Metadata } from 'next/app';
 import { useState } from 'react';
 
