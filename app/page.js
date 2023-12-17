@@ -1,5 +1,3 @@
-import Link from 'next/link'
-
 export default function Page() {
-  return <Link href="/whois">域名查询</Link>
+  return <h1>Hello, Home page!</h1>
 }
