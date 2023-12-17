@@ -9,13 +9,6 @@ export default function Page() {
       </Head>
       <h1>Let&apos;s rush to the sea!</h1>
       <p>Coming soon ^_^</p>
-      <ul>
-        <li>
-          <Link href="/whois">
-            域名查询
-          </Link>
-        </li>
-      </ul>
     </>
   );
 }
